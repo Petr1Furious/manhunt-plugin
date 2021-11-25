@@ -1,0 +1,8 @@
+name: PotatoManhunt
+version: 1.0
+author: _FuriousPotato_
+main: me._furiouspotato_.manhunt.Main
+api-version: 1.13
+commands:
+   manhunt:
+      description: Main command to control the game.
