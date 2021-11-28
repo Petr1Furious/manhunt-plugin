@@ -16,4 +16,6 @@ Put built plugin file into the plugins folder and start the server.
 
 For a quick start with all players, execute "/manhunt join1 [nickname]", where "nickname" is the speedrunner name. All the other players will be chosen as hunters.
 
+After the game finishes, the host can either finish it by running "/manhunt end" or start another round with the same speedrunner and hunters by running "/manhunt start".
+
 ## Example
